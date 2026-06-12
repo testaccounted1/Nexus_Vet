@@ -1,0 +1,49 @@
+{
+  "roadmap": [
+    ["Step 1 — Get your records first",
+     "Request your complete C-File from the VA (the file they decide from), your Service Treatment Records via the National Archives or milConnect, and locate your DD-214. Most weak claims trace back to evidence the VA never had. You cannot fix what you have not read."],
+    ["Step 2 — Lock your effective date (Intent to File)",
+     "File VA Form 21-0966 (Intent to File) on VA.gov or by phone. It costs nothing and preserves your effective date — the date back pay is calculated from — for up to 12 months while you build the claim properly. This is the single most valuable free move in the entire process."],
+    ["Step 3 — Map every condition to its evidence",
+     "Use the Evidence Vault. For each condition you honestly believe is service-connected, work the three pillars: current diagnosis, in-service event, and nexus. The Vault flags what is missing. Do not file a condition you cannot support — denials clutter your record and a withdrawn fishing-expedition claim helps no one."],
+    ["Step 4 — Close the gaps",
+     "See your doctor (VA or private) for any undiagnosed condition you genuinely have. Gather imaging, audiograms, sleep studies as applicable. Request buddy statements (VA Form 21-10210) from people with firsthand knowledge. If a nexus opinion is needed, ask a treating provider who knows your history — a credible nexus letter reviews your records and explains its reasoning; a purchased template letter is often given little weight."],
+    ["Step 5 — Write your personal statement",
+     "VA Form 21-4138 (or the 21-0781 for PTSD stressors). Plain, truthful, specific: what happened in service, when symptoms started, how they have continued, how they affect work and daily life. Dates and facts beat adjectives. Never overstate — examiners read thousands of these and inconsistency destroys credibility."],
+    ["Step 6 — File the claim yourself (free)",
+     "File VA Form 21-526EZ online at VA.gov. If your evidence is complete, select the Fully Developed Claim option for faster processing. Upload everything. Keep copies of every page you submit and note your confirmation number. Total cost of filing: $0."],
+    ["Step 7 — Attend every C&P exam",
+     "Missing a C&P exam is a leading cause of denial. See the C&P Exam Prep section. Be accurate and complete — including your worst days — and never exaggerate or minimize."],
+    ["Step 8 — Read the Rating Decision like a rater",
+     "The decision letter lists each condition, the result, and the REASONING. If denied, the reasoning tells you exactly which pillar the VA found missing. If rated, check the criteria in 38 CFR Part 4 for your condition and confirm the percentage matches the documented severity."],
+    ["Step 9 — If you disagree: three free review lanes (AMA)",
+     "Higher-Level Review (VA Form 20-0996): a senior reviewer re-reads the same evidence — best for clear errors. Supplemental Claim (20-0995): submit NEW and relevant evidence — best when you can close a gap. Board Appeal (VA Form 10182): a Veterans Law Judge — slower, strongest for legal disputes. All free. You generally have one year from the decision date."],
+    ["Step 10 — Know when to bring in help (still free)",
+     "You can do all of the above yourself. If you want a second set of eyes, accredited VSOs (DAV, VFW, American Legion, county veteran service officers) represent you for FREE at every step including Board appeals. VA-accredited attorneys/agents may charge fees only on appeals, capped and regulated. Unaccredited 'claims consultants' charging a cut of your back pay may be operating illegally — you never need them, and this app exists so you never feel you do."]
+  ],
+  "benefits": {
+    "Schedular Compensation": "The standard monthly tax-free payment based on your combined rating (0-100%). Rates update annually with COLA — always check the current tables at va.gov/disability/compensation-rates. Ratings of 30%+ add amounts for dependents (spouse, children, dependent parents) — make sure your dependents are actually added via VA Form 21-686c; this is a commonly missed payment.",
+    "TDIU (Individual Unemployability)": "Pays at the 100% rate when service-connected conditions prevent substantially gainful employment, even if your combined rating is lower. Threshold: one condition at 60%+, OR combined 70%+ with one condition at 40%+ (extraschedular TDIU exists below these but is harder). Apply with VA Form 21-8940 plus 21-4192 from past employers. Requires truthful work history — the VA cross-checks earnings with SSA.",
+    "SMC (Special Monthly Compensation)": "Compensation ABOVE the 100% rate for specific severe circumstances. SMC-K: loss or loss of use of a creative organ or extremity (often missed — it stacks on top of any rating). SMC-S: housebound, or 100% plus a separate 60%. SMC-L through R: escalating levels for aid and attendance needs, multiple losses of use. If you are 100% with additional separate ratings, check SMC-S — many veterans qualify without knowing.",
+    "Health Care & Priority Groups": "Service-connected veterans get VA health care; 50%+ means Priority Group 1: no copays for any VA care. Catastrophic disability and recent combat service have their own groups. Dental care has separate eligibility rules (100% or dental service connection).",
+    "Concurrent Receipt (CRDP / CRSC)": "Military retirees: CRDP restores retired pay offset for 20-year retirees rated 50%+, automatic. CRSC replaces offset for combat-related conditions (apply through your branch), tax-free, available even under 20 years for medical retirees. You pick whichever pays more — DFAS runs an annual open season to switch.",
+    "Dependents Education (Chapter 35 DEA)": "If you are rated Permanent & Total (P&T), your spouse and children can receive months of education benefits. Check your decision letter for the P&T designation.",
+    "VR&E (Chapter 31)": "Vocational Rehabilitation & Employment: training, education, equipment, and sometimes independent-living services for veterans whose service-connected conditions impair employment. Rated 10%+ to apply; can pay MORE than the GI Bill in some cases and does not always consume GI Bill entitlement.",
+    "VA Home Loan & Funding Fee Waiver": "Any veteran with VA disability compensation is EXEMPT from the VA home loan funding fee — commonly 2-3% of the loan, thousands of dollars. If you paid one and were later rated with an effective date before closing, you can request a refund.",
+    "Life Insurance (VALife)": "Guaranteed-acceptance whole life coverage for service-connected veterans, no health questions, apply any time after a 0%+ rating.",
+    "State Benefits": "Vary widely and are commonly missed: property tax exemptions (often substantial at 100% or P&T), free vehicle registration, hunting/fishing licenses, state park access, tuition waivers for the veteran or dependents, and state veterans homes. Search your state's Department of Veterans Affairs site — this is real money left on the table.",
+    "Commissary, Exchange & MWR": "Veterans with any service-connected rating have shopping and MWR access; 100% P&T adds base access privileges for dependents (DD Form 1172 process varies)."
+  },
+  "cp_prep": [
+    ["What a C&P exam is",
+     "A Compensation & Pension exam documents your condition's existence, connection, and severity for rating purposes. The examiner is not your treating doctor and the visit is not treatment. The report — often a standardized DBQ (Disability Benefits Questionnaire) — frequently determines the outcome of the claim."],
+    ["Before the exam",
+     "Re-read your own claim and records so your account is consistent. Know your dates: when symptoms started, when you sought treatment. Review the rating criteria for your condition in 38 CFR Part 4 so you understand WHAT the examiner must measure (range of motion, frequency of episodes, occupational impact) — understanding the criteria is not the same as performing to them, and the difference is honesty."],
+    ["During the exam — accuracy is the whole game",
+     "Describe your symptoms truthfully and completely, including frequency and what your bad days look like — many conditions fluctuate, and an exam on a good day can understate a real disability, so it is legitimate and important to say so. Answer what is asked. Do not exaggerate, perform, or self-diagnose: examiners are trained to spot symptom magnification, it is documented in the report, it can sink your entire credibility — and intentionally faking is a federal crime. Do not minimize or tough-guy through it either; stoicism reads as 'no impairment' on paper."],
+    ["Your rights",
+     "You may bring a written symptom summary and hand it to the examiner. You can request a different examiner gender for sensitive exams. If an exam was cursory or the report contains factual errors, you can challenge its adequacy in a decision review — note the date, duration, and what was and was not examined while it is fresh."],
+    ["After the exam",
+     "Request a copy of the exam report/DBQ through your VA.gov records or a C-File request. Check it for factual errors. If the claim is later decided against the weight of your real records, the report is where you will usually find why."]
+  ]
+}
